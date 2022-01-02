@@ -1,8 +1,8 @@
 ## Hello World! I'm Bruno Carrara
 <div>
-  <a href = "https://github.com/Ararrac">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Ararrac&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ararrac&layout=compact&langs_count=7&theme=highcontrast"/>
+  <a href = "https://github.com/bjornhonor">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=bjornhonor&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjornhonor&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div>
 <a href="https://www.linkedin.com/in/bruno-carrara-851ab4211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
